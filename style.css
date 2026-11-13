@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f9f7f2;
+  color: #1f2d2b;
+  margin: 0;
+  padding: 24px;
+  line-height: 1.6;
+}
+
+h1 {
+  color: teal;
+}
+
+header, main, footer {
+  max-width: 720px;
+  margin: 0 auto 24px;
+  padding: 16px;
+  background: white;
+  border-radius: 12px;
+}
+
+a {
+  color: #00695c;
+}
+
+ul {
+  padding-left: 24px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
